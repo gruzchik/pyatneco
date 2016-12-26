@@ -1,5 +1,7 @@
 <?php
+if($_SERVER['REMOTE_ADDR'] == "178.165.73.99"){
 phpinfo();
+}
 ?>
 <!-- <html> 
 <head>
